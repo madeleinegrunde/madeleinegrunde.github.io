@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior at the University of Pennsylvania studying Cognitive Science and Computer Vision, applying to PhD programs in Computer Science this cycle. My CV is available [here](cv.pdf).
+I am a senior at the University of Pennsylvania studying Cognitive Science and Computer Vision, applying to PhD programs in Computer Science this cycle. My CV is available [here](Curriculum Vitae.pdf).
 
 
 Publications
