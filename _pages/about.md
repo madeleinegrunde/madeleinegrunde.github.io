@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD student in Computer Science at the University of Washington, under the guidance of [Jeff Heer](https://homes.cs.washington.edu/~jheer/) and [Dan Weld](https://www.cs.washington.edu/people/faculty/weld). I graduated from the University of Pennsylvania this May with a major in Cognitive Science. I am interested in exploring Human-AI interaction and Computer Vision. Much of my previous work focused on investigating humans' or models' ability to reason over visual input using proxy tasks. 
+I am an incoming PhD student in Computer Science at the University of Washington, under the guidance of [Jeff Heer](https://homes.cs.washington.edu/~jheer/) and [Dan Weld](https://www.cs.washington.edu/people/faculty/weld). I graduated from the University of Pennsylvania this May with a major in Cognitive Science. 
+
+Much of my previous work focused on investigating the ability of humans or models to reason over visual input using proxy tasks. I am interested in continuing to explore Human-AI interaction, especially within Computer Vision. 
 
 My CV is available [here](Curriculum Vitae.pdf).
 
