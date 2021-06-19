@@ -8,19 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior at the University of Pennsylvania studying Cognitive Science and Computer Vision, applying to PhD programs in Computer Science this cycle. My CV is available [here](Curriculum Vitae.pdf).
+I am an incoming PhD student in Computer Science at the University of Washington, under the guidance of [Jeff Heer](https://homes.cs.washington.edu/~jheer/) and [Dan Weld](https://www.cs.washington.edu/people/faculty/weld). I graduated from the University of Pennsylvania this May with a major in Cognitive Science. I am interested in exploring Human-AI interaction and Computer Vision. Much of my previous work focused on investigating humans' or models' ability to reason over visual input using proxy tasks. 
+
+My CV is available [here](Curriculum Vitae.pdf).
 
 
-Publications
+Projects and Publications
 ======
 
 **AGQA: A Compositional Benchmark for Spatio-Temporal Reasoning** \
 **Madeleine Grunde-McLaughlin**, Ranjay Krishna, Maneesh Agrawala\
-In Submission
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition\
+[paper](https://arxiv.org/pdf/2103.16002.pdf), [benchmark data](https://cs.stanford.edu/people/ranjaykrishna/agqa/), [video](https://www.youtube.com/watch?v=6Rw1QF9Hono)
+
+**Model comparison of the effects of stimulus structure on visual working memory recall**
+Honors Thesis in Cognitive Science
+Recipient of the College Alumni Society Prize in Cognitive Science 2021
+[paper](Thesis.pdf)
+
 
 **Bayesian-Assisted Inference from Visualized Data**\
 Yea-Seul Kim, Paula Kayongo, **Madeleine Grunde-McLaughlin**, Jessica Hullman\
-IEEE InfoVis 2020
-
+IEEE InfoVis 2020\
+[paper](https://arxiv.org/pdf/2008.00142.pdf)
 
 
