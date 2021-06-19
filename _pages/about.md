@@ -23,9 +23,10 @@ Projects and Publications
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition\
 [paper](https://arxiv.org/pdf/2103.16002.pdf), [benchmark data](https://cs.stanford.edu/people/ranjaykrishna/agqa/), [video](https://www.youtube.com/watch?v=6Rw1QF9Hono)
 
-**Model comparison of the effects of stimulus structure on visual working memory recall**
-Honors Thesis in Cognitive Science
-Recipient of the College Alumni Society Prize in Cognitive Science 2021
+**Model Comparison of the Effects of Stimulus Structure on Visual Working Memory Recall**\
+**Madeleine Grunde-McLaughlin**, Cheng Qiu, Alan Stocker
+Honors Thesis in Cognitive Science\
+Recipient of the College Alumni Society Prize in Cognitive Science 2021\
 [paper](Thesis.pdf)
 
 
