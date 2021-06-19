@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD student in Computer Science at the University of Washington, under the guidance of [Jeff Heer](https://homes.cs.washington.edu/~jheer/) and [Dan Weld](https://www.cs.washington.edu/people/faculty/weld). I graduated from the University of Pennsylvania this May with a major in Cognitive Science. 
+I am an incoming PhD student in Computer Science at the University of Washington under the guidance of [Jeff Heer](https://homes.cs.washington.edu/~jheer/) and [Dan Weld](https://www.cs.washington.edu/people/faculty/weld). I graduated from the University of Pennsylvania this May with a major in Cognitive Science. 
 
-My previous work used a variety of proxy tasks to investigate visual reasoning in humans and in models. I am interested in exploring Human-AI interaction, especially within Computer Vision. 
+My previous work used a variety of proxy tasks to investigate visual reasoning in humans and in models. I am interested in continuing to explore Human-AI interaction, especially within Computer Vision. 
 
-My CV is available [here](Curriculum Vitae.pdf).
+Email: mgrunde at cs.washington.edu\
+[CV](Curriculum Vitae.pdf).
+
+
 
 
 Projects and Publications
