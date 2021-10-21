@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Madeleine Grunde-McLaughlin"
   avatar           : "profile.JPG"
-  bio              : "I am an undergrauate studying Cognitive Science at the University of Pennsylvania"
+  bio              : "First year Computer Science PhD student at the University of Washington"
   #location         : "Location"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wzqKsd4AAAAJ"
-  email            : mgrund@sas.upenn.edu
+  email            : mgrunde@cs.washington.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
