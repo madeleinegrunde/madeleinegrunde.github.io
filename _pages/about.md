@@ -20,9 +20,13 @@ Email: mgrunde at cs.washington.edu\
 Projects and Publications
 ======
 
+**Measuring Compositional Consistency for Video Question Answering** \
+Mona Gandhi, Mustafa Omer Gul, Eva Prakash, **Madeleine Grunde-McLaughlin**, Ranjay Krishna, Maneesh Agrawala\
+*Submission to:* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022\
+
 **AGQA: A Compositional Benchmark for Spatio-Temporal Reasoning** \
 ***Madeleine Grunde-McLaughlin**, Ranjay Krishna, Maneesh Agrawala\
-Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition\
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021\
 [paper](https://arxiv.org/pdf/2103.16002.pdf), [benchmark data](https://cs.stanford.edu/people/ranjaykrishna/agqa/), [video](https://www.youtube.com/watch?v=6Rw1QF9Hono), [blog post](http://ai.stanford.edu/blog/agqa/)*
 
 **Model Comparison of the Effects of Stimulus Structure on Visual Working Memory Recall**\
@@ -30,7 +34,6 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 Honors Thesis in Cognitive Science\
 Recipient of the College Alumni Society Prize in Cognitive Science 2021\
 [paper](Thesis.pdf)*
-
 
 **Bayesian-Assisted Inference from Visualized Data**\
 *Yea-Seul Kim, Paula Kayongo, **Madeleine Grunde-McLaughlin**, Jessica Hullman\
