@@ -21,10 +21,10 @@ Projects and Publications
 ======
 
 **Measuring Compositional Consistency for Video Question Answering** \
-Mona Gandhi, Mustafa Omer Gul, Eva Prakash, **Madeleine Grunde-McLaughlin**, Ranjay Krishna, Maneesh Agrawala\
+Mona Gandhi, Mustafa Omer Gul, Eva Prakash, **Madeleine Grunde-McLaughlin**, Ranjay Krishna, Maneesh Agrawala
 
 **When do XAI Methods Work? A Cost-Benefit Approach to Human-AI Collaboration** \
-Helena Vasconcelos, Matthew Jorke, **Madeleine Grunde-McLaughlin**, Ranjay Krishna, Tobias Gerstenberg, Michael S. Bernstein\
+Helena Vasconcelos, Matthew Jorke, **Madeleine Grunde-McLaughlin**, Ranjay Krishna, Tobias Gerstenberg, Michael S. Bernstein
 
 **AGQA: A Compositional Benchmark for Spatio-Temporal Reasoning** \
 ***Madeleine Grunde-McLaughlin**, Ranjay Krishna, Maneesh Agrawala\
