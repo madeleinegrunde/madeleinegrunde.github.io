@@ -25,7 +25,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 [paper](https://arxiv.org/pdf/2204.07190.pdf), [benchmark data](https://agqa-decomp.cs.washington.edu/)
 
 **When do XAI Methods Work? A Cost-Benefit Approach to Human-AI Collaboration** \
-Helena Vasconcelos, Matthew Jorke, **Madeleine Grunde-McLaughlin**, Ranjay Krishna, Tobias Gerstenberg, Michael S. Bernstein
+Helena Vasconcelos, Matthew Jorke, **Madeleine Grunde-McLaughlin**, Ranjay Krishna, Tobias Gerstenberg, Michael S. Bernstein \
 TRAIT Workshop at CHI Conference on Human Factors in Computing Systems 2022\
 [paper](https://chi-trait.github.io/papers/CHI_TRAIT_2022_Paper_44.pdf)
 
