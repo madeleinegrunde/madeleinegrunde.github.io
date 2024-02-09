@@ -25,11 +25,6 @@ I am especially interested in exploring these questions related to environmental
 Publications
 ======
 
-**How Do Data Analysts Respond to AI Assistance? A Wizard-of-Oz Study** \
-*Ken Gu, **Madeleine Grunde-McLaughlin**, Andrew M McNutt, Jeffrey Heer, Tim Althoff* \
-ACM Conference on Human Computer Interaction, 2024\
-[paper](https://arxiv.org/abs/2309.10108)
-
 **Explanations can Reduce Overreliance on AI Systems during Decision-Making** \
 *Helena Vasconcelos, Matthew Jorke, **Madeleine Grunde-McLaughlin**, Ranjay Krishna, Tobias Gerstenberg, Michael S. Bernstein* \
 ACM Conference on Computer-Supported Cooperative Work and Social Computing, 2023\
@@ -60,6 +55,12 @@ Preprints and workshop papers
 ***Madeleine Grunde-McLaughlin**, Michelle S Lam, Ranjay Krishna, Daniel S Weld, Jeffrey Heer* \
 ArXiv, 2023\
 [paper](https://arxiv.org/abs/2312.11681)
+
+
+**How Do Data Analysts Respond to AI Assistance? A Wizard-of-Oz Study** \
+*Ken Gu, **Madeleine Grunde-McLaughlin**, Andrew M McNutt, Jeffrey Heer, Tim Althoff* \
+Conditionally Accepted at ACM Conference on Human Computer Interaction, 2024\
+[paper](https://arxiv.org/abs/2309.10108)
 
 **Semantic Navigator: Query Driven Active Learning for Historical Narrative Understanding** \
 *Eva Maxfield Brown, **Madeleine Grunde-McLaughlin**, Isabelle Pestovski, Lanyi Zhu, Nicholas Weber* \
