@@ -10,14 +10,13 @@ redirect_from:
 
 Hello! 
 
-I am a second year Ph.D. student in Computer Science at the University of Washington under the guidance of [Jeffrey Heer](https://homes.cs.washington.edu/~jheer/) and [Daniel Weld](https://www.cs.washington.edu/people/faculty/weld). 
+I am a third year Ph.D. student in Computer Science at the University of Washington under the guidance of [Jeffrey Heer](https://homes.cs.washington.edu/~jheer/) and [Daniel Weld](https://www.cs.washington.edu/people/faculty/weld). 
 
-As Artificial Intelligence systems increasingly impact daily life, I’m motivated to make the abilities and effects of these systems more interpretable. Drawing from my past work in Cognitive Science, Human-Computer Interaction, and Computer Vision, I’m especially interested in framing these evaluations within a societal context and providing insights into how to improve model behavior and the decisions of Human-AI teams.
+I’m motivated to make AI-backed tools work for people. How can we make technology that is quickly adaptable to novel and specific domains? How can we bridge the communication gap between researchers, developers, and domain experts? How can we support oversight of AI systems by people with limited background in the technology?
 
-Please feel free to reach me at *mgrunde at cs.washington.edu*.
+I am especially interested in exploring these questions related to environmental and data science applications.
 
-
-### [Curriculum Vitae](CV.pdf)
+[Curriculum Vitae](CV.pdf) - [Google Scholar](https://scholar.google.com/citations?user=wzqKsd4AAAAJ&hl=en&oi=ao) - [mgrunde at cs.washington.edu](mailto:mgrunde@cs.washington.edu)
 
 
 <br/>
