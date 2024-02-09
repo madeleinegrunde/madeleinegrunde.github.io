@@ -69,7 +69,7 @@ ACM Conference on Computer-Supported Cooperative Work and Social Computing, Comm
 **When do XAI Methods Work? A Cost-Benefit Approach to Human-AI Collaboration** \
 *Helena Vasconcelos, Matthew Jorke, **Madeleine Grunde-McLaughlin**, Ranjay Krishna, Tobias Gerstenberg, Michael S. Bernstein* \
 TRAIT Workshop at ACM Conference on Human Computer Interaction, 2022\
-[paper](https://chi-trait.github.io/papers/CHI_TRAIT_2022_Paper_44.pdf)
+[paper](https://chi-trait.github.io/papers/2022/CHI_TRAIT_2022_Paper_44.pdf)
 
 **AGQA 2.0: An updated benchmark for compositional spatio-temporal reasoning** \
 ***Madeleine Grunde-McLaughlin**, Ranjay Krishna, Maneesh Agrawala* \
