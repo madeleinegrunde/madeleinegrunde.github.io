@@ -63,14 +63,14 @@ ArXiv, 2023\
 [paper](https://arxiv.org/abs/2312.11681)
 
 **Semantic Navigator: Query Driven Active Learning for Historical Narrative Understanding** \
-*Helena Vasconcelos, Matthew Jorke, **Madeleine Grunde-McLaughlin**, Ranjay Krishna, Tobias Gerstenberg, Michael S. Bernstein* \
-TRAIT Workshop at ACM Conference on Human Computer Interaction, 2022\
-[paper](https://chi-trait.github.io/papers/CHI_TRAIT_2022_Paper_44.pdf)
-
-**When do XAI Methods Work? A Cost-Benefit Approach to Human-AI Collaboration** \
 *Eva Maxfield Brown, **Madeleine Grunde-McLaughlin**, Isabelle Pestovski, Lanyi Zhu, Nicholas Weber* \
 ACM Conference on Computer-Supported Cooperative Work and Social Computing, Community-Driven AI Workshop, 2023 \
 [paper](CSCW-2023-workshop.pdf)
+
+**When do XAI Methods Work? A Cost-Benefit Approach to Human-AI Collaboration** \
+*Helena Vasconcelos, Matthew Jorke, **Madeleine Grunde-McLaughlin**, Ranjay Krishna, Tobias Gerstenberg, Michael S. Bernstein* \
+TRAIT Workshop at ACM Conference on Human Computer Interaction, 2022\
+[paper](https://chi-trait.github.io/papers/CHI_TRAIT_2022_Paper_44.pdf)
 
 **AGQA 2.0: An updated benchmark for compositional spatio-temporal reasoning** \
 ***Madeleine Grunde-McLaughlin**, Ranjay Krishna, Maneesh Agrawala* \
