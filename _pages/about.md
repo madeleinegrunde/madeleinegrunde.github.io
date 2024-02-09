@@ -16,7 +16,7 @@ I’m motivated to make AI-backed tools work for people. How can we make technol
 
 I am especially interested in exploring these questions related to environmental and data science applications.
 
-[Curriculum Vitae](CV.pdf) - [Google Scholar](https://scholar.google.com/citations?user=wzqKsd4AAAAJ&hl=en&oi=ao) - [mgrunde at cs.washington.edu](mailto:mgrunde@cs.washington.edu)
+[Curriculum Vitae](Curriculum_Vitae.pdf) - [Google Scholar](https://scholar.google.com/citations?user=wzqKsd4AAAAJ&hl=en&oi=ao) - [mgrunde at cs.washington.edu](mailto:mgrunde@cs.washington.edu)
 
 
 <br/>
