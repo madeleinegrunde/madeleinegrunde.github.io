@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! 
+Hi! 
 
 I am a third year Ph.D. student in Computer Science at the University of Washington under the guidance of [Jeffrey Heer](https://homes.cs.washington.edu/~jheer/) and [Daniel Weld](https://www.cs.washington.edu/people/faculty/weld). 
 
