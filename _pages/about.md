@@ -14,7 +14,7 @@ I am a fourth year Ph.D. student in the intersection of HCI and AI at the Univer
 
 My work centers on using AI for data-driven discovery while incorporating rather than replacing human judgement. I am motivated to explore questions such as: How can validation and user guidance be built into AI-backed tools? How can AI chaining architectures support meaningful user interactions? How can these tools support scientists and data analysts in discovering robust and reproducible findings? 
 
-I am especially interested in exploring these questions related to environmental applications.
+I am especially interested in exploring these questions for environmental applications.
 
 [Curriculum Vitae](CV.pdf) - [Google Scholar](https://scholar.google.com/citations?user=wzqKsd4AAAAJ&hl=en&oi=ao) - [mgrunde at cs.washington.edu](mailto:mgrunde@cs.washington.edu)
 
