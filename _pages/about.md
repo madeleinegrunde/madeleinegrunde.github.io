@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Madeleine Grunde-McLaughin"
+title: "Madeleine Grunde-McLaughlin"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 Hi!
 
-I am a fourth year Ph.D. student in the intersection of HCI and AI at the University of Washington. I am advised by [Jeffrey Heer](https://homes.cs.washington.edu/~jheer/) and [Daniel Weld](https://www.cs.washington.edu/people/faculty/weld), and I collaborate closely with [Ranjay Krishna](ranjaykrishna.com/).
+I am a fourth year Ph.D. student in the intersection of HCI and AI at the University of Washington. I am advised by [Jeffrey Heer](https://homes.cs.washington.edu/~jheer/) and [Daniel Weld](https://www.cs.washington.edu/people/faculty/weld), and I collaborate closely with [Ranjay Krishna](https://www.ranjaykrishna.com/index.html).
 
 My work centers on using AI for data-driven discovery while incorporating rather than replacing human judgement. I am motivated to explore questions such as: How can validation and user guidance be built into AI-backed tools? How can AI chaining architectures support meaningful user interactions? How can these tools support scientists and data analysts in discovering robust and reproducible findings? 
 
