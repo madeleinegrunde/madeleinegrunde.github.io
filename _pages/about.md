@@ -10,7 +10,7 @@ redirect_from:
 
 Hi!
 
-I am a fourth year Ph.D. student in the intersection of HCI and AI at the University of Washington. I am advised by [Jeffrey Heer](https://homes.cs.washington.edu/~jheer/) and [Daniel Weld](https://www.cs.washington.edu/people/faculty/weld), and I collaborate closely with [Ranjay Krishna](https://www.ranjaykrishna.com/index.html).
+I am a fifth year Ph.D. student in the intersection of HCI and AI at the University of Washington. I am advised by [Jeffrey Heer](https://homes.cs.washington.edu/~jheer/) and [Daniel Weld](https://www.cs.washington.edu/people/faculty/weld), and I collaborate closely with [Ranjay Krishna](https://www.ranjaykrishna.com/index.html).
 
 My work centers on using AI for data-driven discovery while incorporating rather than replacing human judgement. I am motivated to explore questions such as: How can validation and user guidance be built into AI-backed tools? How can AI chaining architectures support meaningful user interactions? How can these tools support scientists and data analysts in discovering robust and reproducible findings? 
 
@@ -24,6 +24,21 @@ I am especially interested in exploring these questions for environmental applic
 
 Publications
 ======
+
+**Designing LLM Chains by Adapting Techniques from Crowdsourcing Workflows** \
+***Madeleine Grunde-McLaughlin**, Michelle S Lam, Ranjay Krishna, Daniel S Weld, Jeffrey Heer* \
+ACM Transactions on Computer-Human Interaction, 2025\
+[pdf](https://dl.acm.org/doi/pdf/10.1145/3716134)
+
+**Wildfire and Forest Management: Opportunities for HCI Research** \
+*Nino Migineishvili, **Madeleine Grunde-McLaughlin**, Emmanuel Azuh, Spencer A Wood, Rene Just, Katharina Reinecke* \
+ACM Transactions on Computer-Human Interaction, 2025\
+[pdf](https://dl.acm.org/doi/10.1145/3765288)
+
+**Visual Representations inside the Language Model** \
+*Benlin Liu, Amita Kamath, **Madeleine Grunde-McLaughlin**, Winson Han, Ranjay Krishna* \
+Conference on Language Modeling, 2025\
+[pdf](https://arxiv.org/pdf/2510.04819)
 
 **How Do Data Analysts Respond to AI Assistance? A Wizard-of-Oz Study** \
 *Ken Gu, **Madeleine Grunde-McLaughlin**, Andrew M McNutt, Jeffrey Heer, Tim Althoff* \
@@ -57,10 +72,19 @@ IEEE InfoVis 2020\
 Preprints and workshop papers
 ======
 
-**Designing LLM Chains by Adapting Techniques from Crowdsourcing Workflows** \
-***Madeleine Grunde-McLaughlin**, Michelle S Lam, Ranjay Krishna, Daniel S Weld, Jeffrey Heer* \
-ArXiv, 2023\
-[pdf](https://arxiv.org/abs/2312.11681)
+**RDoFlow: Automatically assessing under-specified statistical analyses in HCI** \
+***Madeleine Grunde-McLaughlin**, Weixuan Liu, Ria Patil, Nino Migineishvili, Emily Reif, Ranjay Krishna, Daniel S. Weld, Jeffrey Heer* \
+Conditional Acceptance at the ACM Conference on Intelligent User Interfaces, 2026 
+
+**Magentic-ui: Towards human-in-the-loop agentic systems** \
+*Hussein Mozannar, Gagan Bansal, Cheng Tan, Adam Fourney, Victor Dibia, Jingya Chen, Jack Gerrits, Tyler Payne, Matheus Kunzler Maldaner, **Madeleine Grunde-McLaughlin**, Eric Zhu, Griffin Bassman, Jacob Alber, Peter Chang, Ricky Loynd, Friederike Niedtner, Ece Kamar, Maya Murad, Rafah Hosn, Saleema Amershi* \
+ArXiv, 2025 \
+[pdf](https://arxiv.org/pdf/2507.22358?)
+
+**Towards AI-assisted academic writing** \
+*Daniel J Liebling, Malcolm Kane, **Madeleine Grunde-Mclaughlin**, Ian Lang, Subhashini Venugopalan, Michael Brenner* \
+Nations of the Americas chapter of the Association for Computational Linguistics, Workshop on AI and Scientific Discovery, 2025 \
+[pdf](https://aclanthology.org/2025.aisd-main.4.pdf)
 
 **Semantic Navigator: Query Driven Active Learning for Historical Narrative Understanding** \
 *Eva Maxfield Brown, **Madeleine Grunde-McLaughlin**, Isabelle Pestovski, Lanyi Zhu, Nicholas Weber* \
