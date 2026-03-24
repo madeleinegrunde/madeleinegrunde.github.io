@@ -25,6 +25,11 @@ I am especially interested in exploring these questions for environmental applic
 Publications
 ======
 
+**RDoFlow: Automatically assessing under-specified statistical analyses in HCI** \
+***Madeleine Grunde-McLaughlin**, Weixuan Liu, Ria Patil, Nino Migineishvili, Emily Reif, Ranjay Krishna, Daniel S. Weld, Jeffrey Heer* \
+ACM Conference on Intelligent User Interfaces, 2026\
+[pdf](https://dl.acm.org/doi/pdf/10.1145/3742413.3789160)
+
 **Designing LLM Chains by Adapting Techniques from Crowdsourcing Workflows** \
 ***Madeleine Grunde-McLaughlin**, Michelle S Lam, Ranjay Krishna, Daniel S Weld, Jeffrey Heer* \
 ACM Transactions on Computer-Human Interaction, 2025\
@@ -72,9 +77,12 @@ IEEE InfoVis 2020\
 Preprints and workshop papers
 ======
 
-**RDoFlow: Automatically assessing under-specified statistical analyses in HCI** \
-***Madeleine Grunde-McLaughlin**, Weixuan Liu, Ria Patil, Nino Migineishvili, Emily Reif, Ranjay Krishna, Daniel S. Weld, Jeffrey Heer* \
-Conditional Acceptance at the ACM Conference on Intelligent User Interfaces, 2026 
+
+**Overseeing Agents Without Constant Oversight: Challenges and Opportunities** \
+***Madeleine Grunde-McLaughlin**, Hussein Mozannar, Maya Murad, Jingya Chen, Saleema Amershi, Adam Fourney* \
+ArXiv, 2026 \
+[pdf](https://arxiv.org/pdf/2602.16844)
+
 
 **Magentic-ui: Towards human-in-the-loop agentic systems** \
 *Hussein Mozannar, Gagan Bansal, Cheng Tan, Adam Fourney, Victor Dibia, Jingya Chen, Jack Gerrits, Tyler Payne, Matheus Kunzler Maldaner, **Madeleine Grunde-McLaughlin**, Eric Zhu, Griffin Bassman, Jacob Alber, Peter Chang, Ricky Loynd, Friederike Niedtner, Ece Kamar, Maya Murad, Rafah Hosn, Saleema Amershi* \
