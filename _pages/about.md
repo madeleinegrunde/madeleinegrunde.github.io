@@ -10,11 +10,9 @@ redirect_from:
 
 Hi!
 
-I am a fifth year Ph.D. student in the intersection of HCI and AI at the University of Washington. I am advised by [Jeffrey Heer](https://homes.cs.washington.edu/~jheer/) and [Daniel Weld](https://www.cs.washington.edu/people/faculty/weld), and I collaborate closely with [Ranjay Krishna](https://www.ranjaykrishna.com/index.html).
+I am a final year Ph.D. student in the intersection of HCI and AI at the University of Washington. I am advised by [Jeffrey Heer](https://homes.cs.washington.edu/~jheer/) and [Daniel Weld](https://www.cs.washington.edu/people/faculty/weld), and I collaborate closely with [Ranjay Krishna](https://www.ranjaykrishna.com/index.html).
 
-My work centers on using AI for data-driven discovery while incorporating rather than replacing human judgement. I am motivated to explore questions such as: How can validation and user guidance be built into AI-backed tools? How can AI chaining architectures support meaningful user interactions? How can these tools support scientists and data analysts in discovering robust and reproducible findings? 
-
-I am especially interested in exploring these questions for environmental applications.
+My work centers on human verification of AI’s implicit assumptions and human steering towards preferred alternatives. I am motivated to explore questions such as: How can validation and user guidance be built into AI-backed tools? How can AI chaining architectures support meaningful user interactions? How can these tools support scientists and data analysts in discovering robust and reproducible findings? 
 
 [Curriculum Vitae](CV.pdf) - [Google Scholar](https://scholar.google.com/citations?user=wzqKsd4AAAAJ&hl=en&oi=ao) - [mgrunde at cs.washington.edu](mailto:mgrunde@cs.washington.edu)
 
@@ -24,21 +22,21 @@ I am especially interested in exploring these questions for environmental applic
 
 Publications
 ======
-
 **RDoFlow: Automatically assessing under-specified statistical analyses in HCI** \
 ***Madeleine Grunde-McLaughlin**, Weixuan Liu, Ria Patil, Nino Migineishvili, Emily Reif, Ranjay Krishna, Daniel S. Weld, Jeffrey Heer* \
 ACM Conference on Intelligent User Interfaces, 2026\
+*Best Paper Honorable Mention awarded to the top 7 papers*\
 [pdf](https://dl.acm.org/doi/pdf/10.1145/3742413.3789160)
+
+**Wildfire and Forest Management: Opportunities for HCI Research** \
+*Nino Migineishvili, **Madeleine Grunde-McLaughlin**, Emmanuel Azuh, Spencer A Wood, Rene Just, Katharina Reinecke* \
+ACM Transactions on Computer-Human Interaction, 2026\
+[pdf](https://dl.acm.org/doi/10.1145/3765288)
 
 **Designing LLM Chains by Adapting Techniques from Crowdsourcing Workflows** \
 ***Madeleine Grunde-McLaughlin**, Michelle S Lam, Ranjay Krishna, Daniel S Weld, Jeffrey Heer* \
 ACM Transactions on Computer-Human Interaction, 2025\
 [pdf](https://dl.acm.org/doi/pdf/10.1145/3716134)
-
-**Wildfire and Forest Management: Opportunities for HCI Research** \
-*Nino Migineishvili, **Madeleine Grunde-McLaughlin**, Emmanuel Azuh, Spencer A Wood, Rene Just, Katharina Reinecke* \
-ACM Transactions on Computer-Human Interaction, 2025\
-[pdf](https://dl.acm.org/doi/10.1145/3765288)
 
 **Visual Representations inside the Language Model** \
 *Benlin Liu, Amita Kamath, **Madeleine Grunde-McLaughlin**, Winson Han, Ranjay Krishna* \
@@ -48,13 +46,13 @@ Conference on Language Modeling, 2025\
 **How Do Data Analysts Respond to AI Assistance? A Wizard-of-Oz Study** \
 *Ken Gu, **Madeleine Grunde-McLaughlin**, Andrew M McNutt, Jeffrey Heer, Tim Althoff* \
 ACM Conference on Human Computer Interaction, 2024\
-[pdf](https://arxiv.org/abs/2309.10108)
+[pdf](https://dl.acm.org/doi/10.1145/3613904.3641891)
 
 **Explanations can Reduce Overreliance on AI Systems during Decision-Making** \
 *Helena Vasconcelos, Matthew Jorke, **Madeleine Grunde-McLaughlin**, Ranjay Krishna, Tobias Gerstenberg, Michael S. Bernstein* \
 ACM Conference on Computer-Supported Cooperative Work and Social Computing, 2023\
-*Best paper honorable mention awarded to the top 23 papers*\
-[pdf](https://arxiv.org/abs/2212.06823)
+*Best Paper Honorable Mention awarded to the top 23 papers*\
+[pdf](https://dl.acm.org/doi/10.1145/3579605)
 
 **Measuring Compositional Consistency for Video Question Answering** \
 *Mona Gandhi, Mustafa Omer Gul, Eva Prakash, **Madeleine Grunde-McLaughlin**, Ranjay Krishna, Maneesh Agrawala*\
@@ -76,13 +74,15 @@ IEEE InfoVis 2020\
 
 Preprints and workshop papers
 ======
-
+**Agentic Path Maps: Exposing an Agent's Traversal Through the Garden of Forking Paths** \
+***Madeleine Grunde-McLaughlin**, Hafsah Usman, Daniel Mitroshkov, Emily Reif, Nino Migineishvili, Lakshya Chauhan, Kevin Yu, Jeffrey Heer, Daniel S. Weld* \
+ArXiv, 2026 \
+[pdf](https://arxiv.org/pdf/2611.04183)
 
 **Overseeing Agents Without Constant Oversight: Challenges and Opportunities** \
 ***Madeleine Grunde-McLaughlin**, Hussein Mozannar, Maya Murad, Jingya Chen, Saleema Amershi, Adam Fourney* \
 ArXiv, 2026 \
 [pdf](https://arxiv.org/pdf/2602.16844)
-
 
 **Magentic-ui: Towards human-in-the-loop agentic systems** \
 *Hussein Mozannar, Gagan Bansal, Cheng Tan, Adam Fourney, Victor Dibia, Jingya Chen, Jack Gerrits, Tyler Payne, Matheus Kunzler Maldaner, **Madeleine Grunde-McLaughlin**, Eric Zhu, Griffin Bassman, Jacob Alber, Peter Chang, Ricky Loynd, Friederike Niedtner, Ece Kamar, Maya Murad, Rafah Hosn, Saleema Amershi* \
