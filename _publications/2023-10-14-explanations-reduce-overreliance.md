@@ -12,6 +12,6 @@ authors:
 venue: "ACM Conference on Computer-Supported Cooperative Work and Social Computing, 2023"
 award: "Best Paper Honorable Mention awarded to the top 23 papers"
 links:
-  - name: pdf
+  - name: PDF
     url: https://dl.acm.org/doi/10.1145/3579605
 ---

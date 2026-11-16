@@ -6,8 +6,12 @@
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
 
-{% if page.title %}
-  {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
+{% comment %} Browser tab title: "Site Name - Page Title" (just "Site Name" on the homepage). {% endcomment %}
+{% assign seo_site_name = site.name | default: site.title %}
+{% if page.title and page.title != seo_site_name %}
+  {% assign seo_title = seo_site_name | append: " " | append: site.title_separator | append: " " | append: page.title %}
+{% else %}
+  {% assign seo_title = seo_site_name %}
 {% endif %}
 
 {% if seo_title %}

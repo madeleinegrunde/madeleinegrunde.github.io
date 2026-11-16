@@ -14,6 +14,6 @@ authors:
   - Daniel S. Weld
 venue: "ArXiv, 2026"
 links:
-  - name: pdf
+  - name: PDF
     url: https://arxiv.org/pdf/2611.04183
 ---

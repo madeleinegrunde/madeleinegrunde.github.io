@@ -11,6 +11,6 @@ authors:
   - Katharina Reinecke
 venue: "ACM Transactions on Computer-Human Interaction, 2026"
 links:
-  - name: pdf
+  - name: PDF
     url: https://dl.acm.org/doi/10.1145/3765288
 ---

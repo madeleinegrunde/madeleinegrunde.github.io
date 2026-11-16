@@ -11,6 +11,6 @@ authors:
   - Adam Fourney
 venue: "ArXiv, 2026"
 links:
-  - name: pdf
+  - name: PDF
     url: https://arxiv.org/pdf/2602.16844
 ---

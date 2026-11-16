@@ -9,6 +9,6 @@ authors:
 venue: "Honors Thesis in Cognitive Science"
 award: "Recipient of the College Alumni Society Prize in Cognitive Science, 2021"
 links:
-  - name: pdf
+  - name: PDF
     url: /_pages/Thesis.pdf
 ---

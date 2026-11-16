@@ -11,7 +11,7 @@ authors:
   - Maneesh Agrawala
 venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022"
 links:
-  - name: pdf
+  - name: PDF
     url: https://arxiv.org/pdf/2204.07190.pdf
   - name: benchmark data
     url: https://agqa-decomp.cs.washington.edu/

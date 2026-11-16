@@ -14,4 +14,4 @@ Most tasks given to AI are underspecified, meaning that there are multiple possi
 
 Broadly, I work to evaluate AI behavior, effectively communicate its capabilities to people, and consequently improve decision-making and retain human agency. I often study the data analysis domain and am particularly interested in supporting scientists in environmental applications.
 
-My research has informed the design of Microsoft products and been included in university course listings across the United States. I publish in leading HCI and AI venues, including TOCHI, CHI, CSCW, and CVPR, and have received two Best Paper Honorable Mention awards. 
+My research has informed the design of Microsoft products and been included in university course listings across the United States. I publish in leading HCI and AI venues, including TOCHI, CHI, CSCW, and CVPR, and have received two Best Paper Honorable Mention awards.

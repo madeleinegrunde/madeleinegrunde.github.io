@@ -9,6 +9,6 @@ authors:
   - Jessica Hullman
 venue: "IEEE InfoVis 2020"
 links:
-  - name: pdf
+  - name: PDF
     url: https://arxiv.org/pdf/2008.00142.pdf
 ---

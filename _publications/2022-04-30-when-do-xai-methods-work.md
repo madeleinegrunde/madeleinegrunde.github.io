@@ -11,6 +11,6 @@ authors:
   - Michael S. Bernstein
 venue: "TRAIT Workshop at ACM Conference on Human Computer Interaction, 2022"
 links:
-  - name: pdf
+  - name: PDF
     url: https://chi-trait.github.io/papers/2022/CHI_TRAIT_2022_Paper_44.pdf
 ---

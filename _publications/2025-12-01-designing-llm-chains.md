@@ -10,6 +10,6 @@ authors:
   - Jeffrey Heer
 venue: "ACM Transactions on Computer-Human Interaction, 2025"
 links:
-  - name: pdf
+  - name: PDF
     url: https://dl.acm.org/doi/pdf/10.1145/3716134
 ---

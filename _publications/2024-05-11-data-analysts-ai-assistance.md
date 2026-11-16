@@ -10,6 +10,6 @@ authors:
   - Tim Althoff
 venue: "ACM Conference on Human Computer Interaction, 2024"
 links:
-  - name: pdf
+  - name: PDF
     url: https://dl.acm.org/doi/10.1145/3613904.3641891
 ---

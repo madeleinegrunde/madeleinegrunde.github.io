@@ -25,6 +25,6 @@ authors:
   - Saleema Amershi
 venue: "ArXiv, 2025"
 links:
-  - name: pdf
+  - name: PDF
     url: https://arxiv.org/pdf/2507.22358?
 ---

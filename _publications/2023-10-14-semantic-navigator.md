@@ -10,6 +10,6 @@ authors:
   - Nicholas Weber
 venue: "ACM Conference on Computer-Supported Cooperative Work and Social Computing, Community-Driven AI Workshop, 2023"
 links:
-  - name: pdf
+  - name: PDF
     url: /_pages/CSCW-2023-workshop.pdf
 ---

@@ -10,6 +10,6 @@ authors:
   - Ranjay Krishna
 venue: "Conference on Language Modeling, 2025"
 links:
-  - name: pdf
+  - name: PDF
     url: https://arxiv.org/pdf/2510.04819
 ---
