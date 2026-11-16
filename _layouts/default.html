@@ -18,12 +18,12 @@ layout: compress
 
     {{ content }}
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
+    {% comment %}
+      Footer removed. To restore it, put back a div with class "page__footer"
+      containing a footer element that includes footer/custom.html and
+      footer.html (see git history), and set body padding-bottom in
+      _sass/_base.scss back to 9em.
+    {% endcomment %}
 
     {% include scripts.html %}
 

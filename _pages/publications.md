@@ -10,8 +10,8 @@ author_profile: true
 {% endif %} -->
 
 {% include base_path %}
-
-Publications
+<!-- 
+Publications -->
 ======
 {% include publication-list.html section="main" %}
 

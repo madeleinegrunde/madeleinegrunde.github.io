@@ -10,7 +10,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  padding-bottom: 9em;
+  padding-bottom: 3em; /* was 9em to make room for the footer, which has been removed */
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
