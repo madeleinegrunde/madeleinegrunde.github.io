@@ -1,0 +1,32 @@
+{%- comment -%}
+  Renders publications from the _publications collection.
+  Usage: {% include publication-list.html section="main" %}
+  - section: matches the `section` front matter field ("main" or "preprint").
+    Omit to list every publication.
+  Entries are sorted newest first by their `date` field.
+  The site author's name (site.author.name) is bolded automatically.
+{%- endcomment -%}
+{%- include base_path -%}
+{%- if include.section -%}
+  {%- assign pubs = site.publications | where: "section", include.section -%}
+{%- else -%}
+  {%- assign pubs = site.publications -%}
+{%- endif -%}
+{%- assign pubs = pubs | sort: "date" | reverse -%}
+{%- assign me = site.author.name -%}
+{%- capture me_bold -%}<strong>{{ me }}</strong>{%- endcapture -%}
+<div class="publication-list">
+{%- for pub in pubs %}
+<p class="publication"><strong>{{ pub.title }}</strong><br />
+<em>{{ pub.authors | join: ", " | replace: me, me_bold }}</em><br />
+{{ pub.venue }}<br />
+{%- if pub.award %}
+<em>{{ pub.award }}</em><br />
+{%- endif %}
+{%- for link in pub.links %}
+{%- assign url = link.url -%}
+{%- if url contains "://" -%}{%- else -%}{%- assign url = url | prepend: base_path -%}{%- endif %}
+<a href="{{ url }}">{{ link.name }}</a>{% unless forloop.last %},{% endunless %}
+{%- endfor %}</p>
+{%- endfor %}
+</div>

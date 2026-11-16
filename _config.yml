@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 name                     : &name "Madeleine Grunde-McLaughlin"
-description              : &description "personal description"
+description              : &description "PhD candidate at the University of Washington working at the intersection of HCI and AI"
 url                      : https://madeleinegrunde.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "madeleinegrunde/madeleinegrunde.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Madeleine Grunde-McLaughlin"
   avatar           : "profile.JPG"
-  bio              : "Computer Science PhD student at the University of Washington"
+  bio              : "Computer Science PhD candidate at the University of Washington"
   #location         : "Location"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -174,11 +174,12 @@ kramdown:
 
 
 # Collections
-#collections:
+collections:
+  # Papers are listed on the homepage via _includes/publication-list.html.
+  # output: false means no separate page is generated per paper.
+  publications:
+    output: false
 #  teaching:
-#    output: true
-#    permalink: /:collection/:path/
-#  publications:
 #    output: true
 #    permalink: /:collection/:path/
 #  portfolio:
