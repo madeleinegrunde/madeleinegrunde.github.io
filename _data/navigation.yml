@@ -1,22 +1,28 @@
-# main links links
-#main:
-  #- title: "Publications"
-  #  url: /publications/
+# Tabs shown in the top navigation bar.
+# Set `new_tab: true` to open the link in a new browser tab.
+main:
+  - title: "About"
+    url: /
 
+  - title: "Publications"
+    url: /publications/
+
+  - title: "CV"
+    url: /_pages/CV.pdf
+    new_tab: true
+
+  # Not currently shown -- uncomment to re-enable.
   #- title: "Talks"
-  #  url: /talks/    
+  #  url: /talks/
 
   #- title: "Teaching"
-  #  url: /teaching/    
-    
+  #  url: /teaching/
+
   #- title: "Portfolio"
   #  url: /portfolio/
-        
+
   #- title: "Blog Posts"
   #  url: /year-archive/
-    
-  #- title: "CV"
-  #  url: /cv/
-    
+
   #- title: "Guide"
   #  url: /markdown/

@@ -19,18 +19,3 @@ Broadly, I work to effectively evaluate AI behavior, communicate its capabilitie
 My research has informed the design of Microsoft products and been included in university course listings across the United States. I publish in leading HCI and AI venues, including TOCHI, CHI, CSCW, and CVPR, and have received two Best Paper Honorable Mention awards. 
 
 [Curriculum Vitae](CV.pdf) - [Google Scholar](https://scholar.google.com/citations?user=wzqKsd4AAAAJ&hl=en&oi=ao) - [mgrunde at cs.washington.edu](mailto:mgrunde@cs.washington.edu)
-
-
-<br/>
-
-
-Publications
-======
-{% include publication-list.html section="main" %}  
-
-<br/>
-
-
-Preprints and workshop papers
-======
-{% include publication-list.html section="preprint" %}
