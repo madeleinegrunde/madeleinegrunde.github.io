@@ -13,6 +13,15 @@
   @include clearfix();
   margin-bottom: 1em;
 
+  /* Fixed sidebar text size, independent of the main text size in
+     _sass/_reset.scss. Everything in the sidebar (name, bio, links)
+     is sized relative to this. These match the original site sizes. */
+  font-size: 16px;  /* small screens */
+
+  @include breakpoint($medium) {
+    font-size: 18px;  /* wider screens */
+  }
+
   @include breakpoint($large) {
     @include span(2 of 12);
     opacity: 1;
