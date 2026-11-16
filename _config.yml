@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Madeleine Grunde-McLaughlin"
   avatar           : "profile.JPG"
-  bio              : "Computer Science<br>Ph.D. candidate at the<br>University of Washington"  # <br> = line break
+  bio              : "Ph.D. candidate in<br>Computer Science at the<br>University of Washington"  # <br> = line break
   #location         : "Location"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
