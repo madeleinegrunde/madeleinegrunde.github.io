@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Madeleine Grunde-McLaughlin"
   avatar           : "profile.JPG"
-  bio              : "Computer Science PhD candidate at the University of Washington"
+  bio              : "Computer Science<br>Ph.D. candidate at the<br>University of Washington"  # <br> = line break
   #location         : "Location"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wzqKsd4AAAAJ"
   email            : mgrunde@cs.washington.edu
+  email_text       : "mgrunde at cs.washington.edu"  # plain text shown at the bottom of the sidebar list
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
