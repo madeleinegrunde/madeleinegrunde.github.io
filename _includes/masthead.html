@@ -15,7 +15,12 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}"{% if link.new_tab %} target="_blank" rel="noopener"{% endif %}>{{ link.title }}</a></li>
+            {% if page.url == link.url %}
+              {% assign current = true %}
+            {% else %}
+              {% assign current = false %}
+            {% endif %}
+            <li class="masthead__menu-item{% if current %} masthead__menu-item--current{% endif %}"><a href="{{ domain }}{{ link.url }}"{% if link.new_tab %} target="_blank" rel="noopener"{% endif %}{% if current %} aria-current="page"{% endif %}>{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>

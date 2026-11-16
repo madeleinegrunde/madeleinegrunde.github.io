@@ -50,4 +50,9 @@
     padding-right: 2em;
     font-weight: 700;
   }
+
+  /* tab for the page currently being viewed */
+  &--current {
+    font-weight: 700;
+  }
 }

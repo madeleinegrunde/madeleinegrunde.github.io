@@ -189,6 +189,12 @@
     }
   }
 
+  /* on very narrow screens the overflow button appears at the right edge;
+     keep the right-aligned tabs from sitting underneath it */
+  button:not(.hidden) ~ .visible-links {
+    margin-right: 3rem;
+  }
+
   button {
     position: absolute;
     height: 100%;
@@ -203,14 +209,13 @@
 
   .visible-links {
     display: table;
+    margin-left: auto; /* right-align the tabs */
 
     li {
       display: table-cell;
       vertical-align: middle;
 
       &:first-child {
-        font-weight: bold;
-
         a {
           margin-left: 0;
         }
